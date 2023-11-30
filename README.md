@@ -10,4 +10,4 @@
 
 ## Overview:
 
-![Guess_letter](img/gues_letter.png)
+![Guess_letter](img/gues_letter.gif)
