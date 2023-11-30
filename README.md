@@ -11,4 +11,4 @@
 ![Guess_letter](img/guess_letter.gif)
 
 * The program supports two types of internal implementation: matrix and graph. This can be configured in the main menu of the program.
-* If you change the number of internal layers or the implementation, you should load the appropriate weights or train the neural network again. The Weights folder contains ready-made weights for two-layer perceptron.
+* If you change the number of internal layers or the implementation, you should load the appropriate weights or train the neural network again. The ```Weights``` folder contains ready-made weights for two-layer perceptron.
