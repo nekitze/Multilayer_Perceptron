@@ -4,7 +4,7 @@
 ## Install:
 1. Go to /src
 2. Do ```make install```
-3. Run from Desctop icon (or run executable ${PWD}/multilayer_perceptron/MultilayerPerceptron.app)
+3. Run from Desktop icon (or run executable ${PWD}/multilayer_perceptron/MultilayerPerceptron.app)
 
 ## Overview:
 
