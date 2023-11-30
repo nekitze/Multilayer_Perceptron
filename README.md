@@ -1,8 +1,6 @@
 # Multilayer Perceptron
 👁️‍🗨️ Implementation of a simple artificial neural network in the form of a perceptron, which can be trained on an open dataset and perform recognition of 26 handwritten letters of the Latin alphabet.
 
-```Model rendering is implemented in OpenGL. Rotation/moving/scaling of the model is implemented on C++ using affine transformations.```
-
 ## Install:
 1. Go to /src
 2. Do ```make install```
@@ -11,3 +9,6 @@
 ## Overview:
 
 ![Guess_letter](img/guess_letter.gif)
+
+* The program supports two types of internal implementation: matrix and graph. This can be configured in the main menu of the program.
+* If you change the number of internal layers or the implementation, you should load the appropriate weights or train the neural network again. The Weights folder contains ready-made weights for two-layer perceptron.
